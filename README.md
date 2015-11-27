@@ -1,1 +1,1 @@
-# Maximizar o Maior Valor de Expressões Numéricas
+# Maximizar o maior valor de expressões numéricas
